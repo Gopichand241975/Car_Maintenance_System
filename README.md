@@ -2,7 +2,7 @@
 
 A full-stack car maintenance booking platform — customers book services, owners accept/reject and manage them, with built-in payments.
 
-# CarCare website
+
 ## Screenshot
 
 <img src="screenshots/website.png" width="700">
