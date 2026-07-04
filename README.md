@@ -5,7 +5,7 @@ A full-stack car maintenance booking platform — customers book services, owner
 
 ## Screenshot
 
-<img src="screenshots/website.png" width="700">
+<img src="website.png" width="700">
 
 ## Tech Stack
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
