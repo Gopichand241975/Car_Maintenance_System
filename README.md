@@ -3,9 +3,9 @@
 A full-stack car maintenance booking platform — customers book services, owners accept/reject and manage them, with built-in payments.
 
 
-# demo
+# live demo
 
-https://expert-cod-jjgj6v9qr6x6cx47-5000.app.github.dev/
+https://car-maintenance-system-1-khsj.onrender.com
 
 
 ## Screenshot
